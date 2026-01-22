@@ -19,3 +19,4 @@ typedef struct {
     vrchol_t *vrcholy;
     hrana_t *hrany;
 } graf_t;
+
